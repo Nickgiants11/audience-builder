@@ -1,0 +1,13 @@
+{
+  "source": "ai_arc",
+  "audience_name": "example-fintech-ceos",
+  "filters": {
+    "job_titles": ["CEO", "Founder"],
+    "industries": ["Fintech", "Financial Technology"],
+    "company_size": "51-200",
+    "location": "United States"
+  },
+  "limit": 100,
+  "requested_by": "Example",
+  "notes": "Example request - duplicate and modify for your needs"
+}

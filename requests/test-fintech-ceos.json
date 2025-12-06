@@ -2,12 +2,20 @@
   "source": "ai_arc",
   "audience_name": "test-fintech-ceos",
   "filters": {
-    "job_titles": ["CEO", "Founder"],
-    "industries": ["Fintech"],
+    "job_titles": [
+      "CEO",
+      "Founder"
+    ],
+    "industries": [
+      "Fintech"
+    ],
     "company_size": "51-200",
     "location": "United States"
   },
   "limit": 10,
   "requested_by": "Troy",
-  "notes": "Test run"
+  "notes": "Test run",
+  "processed_at": "2025-12-06T18:32:04.703308",
+  "result_file": "results/test-fintech-ceos-20251206-183204.csv",
+  "result_count": 0
 }

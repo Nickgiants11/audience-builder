@@ -1,0 +1,69 @@
+name: Process Audience Request
+
+on:
+  push:
+    paths:
+      - 'requests/**'
+  workflow_dispatch:
+    inputs:
+      request_file:
+        description: 'Request file to process (e.g., requests/my-request.json)'
+        required: false
+        type: string
+
+jobs:
+  process-request:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install httpx pydantic python-dotenv
+
+      - name: Find new request files
+        id: find-requests
+        run: |
+          if [ -n "${{ github.event.inputs.request_file }}" ]; then
+            echo "files=${{ github.event.inputs.request_file }}" >> $GITHUB_OUTPUT
+          else
+            CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD -- 'requests/*.json' 2>/dev/null || echo "")
+            if [ -z "$CHANGED_FILES" ]; then
+              CHANGED_FILES=$(ls requests/*.json 2>/dev/null | head -5 || echo "")
+            fi
+            echo "files=$CHANGED_FILES" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Process requests
+        env:
+          AI_ARC_API_KEY: ${{ secrets.AI_ARC_API_KEY }}
+          AI_ARC_BASE_URL: ${{ secrets.AI_ARC_BASE_URL }}
+          SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
+          CLAY_API_KEY: ${{ secrets.CLAY_API_KEY }}
+          CLAY_BASE_URL: ${{ secrets.CLAY_BASE_URL }}
+        run: |
+          for file in ${{ steps.find-requests.outputs.files }}; do
+            if [ -f "$file" ]; then
+              echo "Processing: $file"
+              python scripts/process_request.py "$file"
+            fi
+          done
+
+      - name: Commit results
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add results/
+          git add requests/
+          git diff --staged --quiet || git commit -m "🎯 Audience results generated"
+          git push

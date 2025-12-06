@@ -1,0 +1,13 @@
+{
+  "source": "ai_arc",
+  "audience_name": "test-fintech-ceos",
+  "filters": {
+    "job_titles": ["CEO", "Founder"],
+    "industries": ["Fintech"],
+    "company_size": "51-200",
+    "location": "United States"
+  },
+  "limit": 10,
+  "requested_by": "Troy",
+  "notes": "Test run"
+}

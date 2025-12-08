@@ -1,0 +1,18 @@
+{
+  "source": "ai_arc",
+  "audience_name": "rabbit-01-post-funding-v2",
+  "filters": {
+    "seniority": ["founder", "c_suite"],
+    "industries": [
+      "computer hardware manufacturing",
+      "computers and electronics manufacturing",
+      "appliances, electrical, and electronics manufacturing"
+    ],
+    "company_size": "1-100",
+    "location": "United States",
+    "keywords": ["hardware", "IoT", "consumer", "startup", "product"]
+  },
+  "limit": 50,
+  "requested_by": "Agent 3",
+  "notes": "Rabbit Campaign 1 - CORRECTED with valid AI Arc industry values"
+}

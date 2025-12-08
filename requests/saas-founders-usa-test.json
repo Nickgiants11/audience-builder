@@ -1,0 +1,13 @@
+{
+  "source": "ai_arc",
+  "audience_name": "saas-founders-usa",
+  "filters": {
+    "seniority": ["founder", "c_suite"],
+    "industries": ["software development"],
+    "location": "United States",
+    "company_size": "51-200"
+  },
+  "limit": 100,
+  "requested_by": "Troy",
+  "notes": "SaaS founders and CEOs, small companies, USA"
+}

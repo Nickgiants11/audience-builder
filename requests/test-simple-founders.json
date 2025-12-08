@@ -2,10 +2,15 @@
   "source": "ai_arc",
   "audience_name": "test-simple-founders",
   "filters": {
-    "seniority": ["founder"],
+    "seniority": [
+      "founder"
+    ],
     "location": "United States"
   },
   "limit": 50,
   "requested_by": "Troy",
-  "notes": "Simple test - founders in USA only"
+  "notes": "Simple test - founders in USA only",
+  "processed_at": "2025-12-08T17:14:08.786553",
+  "result_file": "results/test-simple-founders-20251208-171408.csv",
+  "result_count": 50
 }

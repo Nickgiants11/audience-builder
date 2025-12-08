@@ -1,0 +1,12 @@
+{
+  "source": "ai_arc",
+  "audience_name": "founders-tech-usa",
+  "filters": {
+    "seniority": ["founder", "c_suite"],
+    "industries": ["technology", "software"],
+    "location": "United States"
+  },
+  "limit": 50,
+  "requested_by": "Troy",
+  "notes": "Testing combined filters - founders in tech in USA"
+}

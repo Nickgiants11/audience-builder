@@ -1,0 +1,10 @@
+{
+  "source": "ai_arc",
+  "audience_name": "test-industry-only",
+  "filters": {
+    "industries": ["technology"]
+  },
+  "limit": 25,
+  "requested_by": "Troy",
+  "notes": "Testing industry filter alone"
+}

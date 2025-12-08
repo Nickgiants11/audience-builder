@@ -1,0 +1,11 @@
+{
+  "source": "ai_arc",
+  "audience_name": "founders-usa-only",
+  "filters": {
+    "seniority": ["founder"],
+    "location": "United States"
+  },
+  "limit": 50,
+  "requested_by": "Troy",
+  "notes": "Testing founders + location without industry"
+}

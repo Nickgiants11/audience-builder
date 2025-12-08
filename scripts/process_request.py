@@ -53,17 +53,14 @@ async def search_ai_arc_people(filters: Dict[str, Any], limit: int = 100) -> Lis
             }
         }
     
-    # KEYWORD FILTER - Complex structure with SMART mode
+    # KEYWORD FILTER - Simplified SMART mode based on AI-Ark curl example
     if "keywords" in filters:
         keyword_list = filters["keywords"]
-        # Default to SMART mode searching across multiple sources
         contact["keyword"] = {
-            "any": {
+            "all": {
                 "include": {
                     "sources": [
-                        {"mode": "SMART", "source": "NAME"},
-                        {"mode": "SMART", "source": "KEYWORD"},
-                        {"mode": "SMART", "source": "DESCRIPTION"}
+                        {"mode": "SMART"}
                     ],
                     "content": keyword_list if isinstance(keyword_list, list) else [keyword_list]
                 }

@@ -2,11 +2,18 @@
   "source": "ai_arc",
   "audience_name": "test-run-2",
   "filters": {
-    "job_titles": ["CEO"],
-    "industries": ["Technology"],
+    "job_titles": [
+      "CEO"
+    ],
+    "industries": [
+      "Technology"
+    ],
     "location": "United States"
   },
   "limit": 5,
   "requested_by": "Troy",
-  "notes": "Testing corrected API format"
+  "notes": "Testing corrected API format",
+  "processed_at": "2025-12-08T14:08:38.586944",
+  "result_file": "results/test-run-2-20251208-140838.csv",
+  "result_count": 0
 }

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 BuzzLead Audience Builder - Request Processor
-Corrected for AI-Ark exact filter structure
+Updated with correct keyword filter structure
 """
 
 import os
@@ -53,10 +53,20 @@ async def search_ai_arc_people(filters: Dict[str, Any], limit: int = 100) -> Lis
             }
         }
     
+    # KEYWORD FILTER - Complex structure with SMART mode
     if "keywords" in filters:
+        keyword_list = filters["keywords"]
+        # Default to SMART mode searching across multiple sources
         contact["keyword"] = {
             "any": {
-                "include": filters["keywords"]
+                "include": {
+                    "sources": [
+                        {"mode": "SMART", "source": "NAME"},
+                        {"mode": "SMART", "source": "KEYWORD"},
+                        {"mode": "SMART", "source": "DESCRIPTION"}
+                    ],
+                    "content": keyword_list if isinstance(keyword_list, list) else [keyword_list]
+                }
             }
         }
     

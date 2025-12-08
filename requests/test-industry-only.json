@@ -2,9 +2,14 @@
   "source": "ai_arc",
   "audience_name": "test-industry-only",
   "filters": {
-    "industries": ["technology"]
+    "industries": [
+      "technology"
+    ]
   },
   "limit": 25,
   "requested_by": "Troy",
-  "notes": "Testing industry filter alone"
+  "notes": "Testing industry filter alone",
+  "processed_at": "2025-12-08T15:11:17.438845",
+  "result_file": "results/test-industry-only-20251208-151117.csv",
+  "result_count": 0
 }

@@ -2,9 +2,14 @@
   "source": "ai_arc",
   "audience_name": "test-industry-exact",
   "filters": {
-    "industries": ["Consumer Services"]
+    "industries": [
+      "Consumer Services"
+    ]
   },
   "limit": 25,
   "requested_by": "Troy",
-  "notes": "Testing with exact industry name from API response"
+  "notes": "Testing with exact industry name from API response",
+  "processed_at": "2025-12-08T15:11:16.971952",
+  "result_file": "results/test-industry-exact-20251208-151116.csv",
+  "result_count": 25
 }

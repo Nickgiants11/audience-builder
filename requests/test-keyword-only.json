@@ -1,0 +1,10 @@
+{
+  "source": "ai_arc",
+  "audience_name": "test-keyword-only",
+  "filters": {
+    "keywords": ["software", "leader", "speaker"]
+  },
+  "limit": 50,
+  "requested_by": "Troy",
+  "notes": "Testing keyword filter ONLY - no other filters"
+}

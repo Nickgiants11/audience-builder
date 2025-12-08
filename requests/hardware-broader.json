@@ -1,0 +1,12 @@
+{
+  "source": "ai_arc",
+  "audience_name": "hardware-broader",
+  "filters": {
+    "seniority": ["founder", "c_suite"],
+    "industries": ["computer hardware manufacturing", "computers and electronics manufacturing", "appliances, electrical, and electronics manufacturing"],
+    "location": "United States"
+  },
+  "limit": 50,
+  "requested_by": "Troy",
+  "notes": "Hardware founders - NO company size filter, multiple industries"
+}

@@ -1,0 +1,11 @@
+{
+  "source": "ai_arc",
+  "audience_name": "test-size-only",
+  "filters": {
+    "seniority": ["founder"],
+    "company_size": "1-100"
+  },
+  "limit": 50,
+  "requested_by": "Troy",
+  "notes": "Testing company size filter with just seniority"
+}

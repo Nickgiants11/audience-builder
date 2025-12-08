@@ -1,0 +1,13 @@
+{
+  "source": "ai_arc",
+  "audience_name": "hardware-founders-test",
+  "filters": {
+    "seniority": ["founder", "c_suite"],
+    "industries": ["computer hardware manufacturing"],
+    "company_size": "1-100",
+    "location": "United States"
+  },
+  "limit": 50,
+  "requested_by": "Troy",
+  "notes": "Testing hardware founders - no keywords"
+}

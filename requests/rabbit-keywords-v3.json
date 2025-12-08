@@ -2,12 +2,22 @@
   "source": "ai_arc",
   "audience_name": "rabbit-keywords-v3",
   "filters": {
-    "seniority": ["founder", "c_suite"],
+    "seniority": [
+      "founder",
+      "c_suite"
+    ],
     "company_size": "1-100",
     "location": "United States",
-    "keywords": ["hardware", "IoT", "consumer electronics"]
+    "keywords": [
+      "hardware",
+      "IoT",
+      "consumer electronics"
+    ]
   },
   "limit": 50,
   "requested_by": "Troy",
-  "notes": "Testing SMART keyword search for hardware founders"
+  "notes": "Testing SMART keyword search for hardware founders",
+  "processed_at": "2025-12-08T17:00:09.167211",
+  "result_file": "results/rabbit-keywords-v3-20251208-170009.csv",
+  "result_count": 0
 }

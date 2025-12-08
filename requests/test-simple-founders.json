@@ -1,0 +1,11 @@
+{
+  "source": "ai_arc",
+  "audience_name": "test-simple-founders",
+  "filters": {
+    "seniority": ["founder"],
+    "location": "United States"
+  },
+  "limit": 50,
+  "requested_by": "Troy",
+  "notes": "Simple test - founders in USA only"
+}

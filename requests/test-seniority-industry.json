@@ -1,0 +1,11 @@
+{
+  "source": "ai_arc",
+  "audience_name": "test-seniority-industry",
+  "filters": {
+    "seniority": ["founder"],
+    "industries": ["technology"]
+  },
+  "limit": 25,
+  "requested_by": "Troy",
+  "notes": "Testing seniority + industry"
+}

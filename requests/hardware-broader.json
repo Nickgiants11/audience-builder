@@ -2,11 +2,21 @@
   "source": "ai_arc",
   "audience_name": "hardware-broader",
   "filters": {
-    "seniority": ["founder", "c_suite"],
-    "industries": ["computer hardware manufacturing", "computers and electronics manufacturing", "appliances, electrical, and electronics manufacturing"],
+    "seniority": [
+      "founder",
+      "c_suite"
+    ],
+    "industries": [
+      "computer hardware manufacturing",
+      "computers and electronics manufacturing",
+      "appliances, electrical, and electronics manufacturing"
+    ],
     "location": "United States"
   },
   "limit": 50,
   "requested_by": "Troy",
-  "notes": "Hardware founders - NO company size filter, multiple industries"
+  "notes": "Hardware founders - NO company size filter, multiple industries",
+  "processed_at": "2025-12-08T17:12:33.706523",
+  "result_file": "results/hardware-broader-20251208-171233.csv",
+  "result_count": 0
 }

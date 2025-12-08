@@ -2,11 +2,22 @@
   "source": "ai_arc",
   "audience_name": "ceos-technology-usa",
   "filters": {
-    "job_titles": ["CEO", "Chief Executive Officer", "Founder"],
-    "industries": ["Technology", "Software", "Information Technology"],
+    "job_titles": [
+      "CEO",
+      "Chief Executive Officer",
+      "Founder"
+    ],
+    "industries": [
+      "Technology",
+      "Software",
+      "Information Technology"
+    ],
     "location": "United States"
   },
   "limit": 50,
   "requested_by": "Troy",
-  "notes": "Testing with filters"
+  "notes": "Testing with filters",
+  "processed_at": "2025-12-08T14:30:30.586647",
+  "result_file": "results/ceos-technology-usa-20251208-143030.csv",
+  "result_count": 0
 }

@@ -2,11 +2,24 @@
   "source": "ai_arc",
   "audience_name": "test-broader-search",
   "filters": {
-    "job_titles": ["CEO", "Founder", "Chief Executive Officer", "Co-Founder"],
-    "industries": ["Software", "Technology", "SaaS", "Information Technology"],
+    "job_titles": [
+      "CEO",
+      "Founder",
+      "Chief Executive Officer",
+      "Co-Founder"
+    ],
+    "industries": [
+      "Software",
+      "Technology",
+      "SaaS",
+      "Information Technology"
+    ],
     "location": "United States"
   },
   "limit": 25,
   "requested_by": "Troy",
-  "notes": "Testing broader filters for more results"
+  "notes": "Testing broader filters for more results",
+  "processed_at": "2025-12-08T14:21:17.569589",
+  "result_file": "results/test-broader-search-20251208-142117.csv",
+  "result_count": 1
 }

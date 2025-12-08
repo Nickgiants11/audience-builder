@@ -1,0 +1,12 @@
+{
+  "source": "ai_arc",
+  "audience_name": "test-broader-search",
+  "filters": {
+    "job_titles": ["CEO", "Founder", "Chief Executive Officer", "Co-Founder"],
+    "industries": ["Software", "Technology", "SaaS", "Information Technology"],
+    "location": "United States"
+  },
+  "limit": 25,
+  "requested_by": "Troy",
+  "notes": "Testing broader filters for more results"
+}

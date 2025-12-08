@@ -2,10 +2,17 @@
   "source": "ai_arc",
   "audience_name": "test-seniority-industry",
   "filters": {
-    "seniority": ["founder"],
-    "industries": ["technology"]
+    "seniority": [
+      "founder"
+    ],
+    "industries": [
+      "technology"
+    ]
   },
   "limit": 25,
   "requested_by": "Troy",
-  "notes": "Testing seniority + industry"
+  "notes": "Testing seniority + industry",
+  "processed_at": "2025-12-08T14:45:36.444856",
+  "result_file": "results/test-seniority-industry-20251208-144536.csv",
+  "result_count": 0
 }

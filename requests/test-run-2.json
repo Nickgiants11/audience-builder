@@ -1,0 +1,12 @@
+{
+  "source": "ai_arc",
+  "audience_name": "test-run-2",
+  "filters": {
+    "job_titles": ["CEO"],
+    "industries": ["Technology"],
+    "location": "United States"
+  },
+  "limit": 5,
+  "requested_by": "Troy",
+  "notes": "Testing corrected API format"
+}

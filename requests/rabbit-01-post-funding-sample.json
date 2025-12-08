@@ -1,0 +1,15 @@
+{
+  "source": "ai_arc",
+  "audience_name": "rabbit-01-post-funding-sample",
+  "filters": {
+    "seniority": ["founder", "c_suite"],
+    "department": ["executive", "engineering", "product"],
+    "industries": ["Consumer Electronics", "Hardware", "IoT", "Smart Home", "Fitness", "Outdoor"],
+    "company_size": "1-100",
+    "location": "United States",
+    "keywords": ["hardware", "product", "IoT", "consumer electronics", "smart home", "connected device", "startup"]
+  },
+  "limit": 50,
+  "requested_by": "Agent 3",
+  "notes": "Rabbit Product Design - Campaign 1: Post-Funding Hardware Startups - Sample Pull"
+}

@@ -53,16 +53,20 @@ async def search_ai_arc_people(filters: Dict[str, Any], limit: int = 100) -> Lis
             }
         }
     
-    # KEYWORD FILTER - SMART mode (contact level for people search)
+    # KEYWORD FILTER - SMART mode (keywords as single comma-separated string)
     if "keywords" in filters:
         keyword_list = filters["keywords"]
+        if isinstance(keyword_list, list):
+            keyword_string = ", ".join(keyword_list)
+        else:
+            keyword_string = keyword_list
         contact["keyword"] = {
             "all": {
                 "include": {
                     "sources": [
                         {"mode": "SMART"}
                     ],
-                    "content": keyword_list if isinstance(keyword_list, list) else [keyword_list]
+                    "content": [keyword_string]
                 }
             }
         }

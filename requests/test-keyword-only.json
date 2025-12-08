@@ -2,9 +2,16 @@
   "source": "ai_arc",
   "audience_name": "test-keyword-only",
   "filters": {
-    "keywords": ["software", "leader", "speaker"]
+    "keywords": [
+      "software",
+      "leader",
+      "speaker"
+    ]
   },
   "limit": 50,
   "requested_by": "Troy",
-  "notes": "Testing keyword filter ONLY - no other filters"
+  "notes": "Testing keyword filter ONLY - no other filters",
+  "processed_at": "2025-12-08T17:51:05.870960",
+  "result_file": "results/test-keyword-only-20251208-175105.csv",
+  "result_count": 0
 }

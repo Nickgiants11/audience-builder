@@ -2,11 +2,19 @@
   "source": "ai_arc",
   "audience_name": "saas-founders-small-co",
   "filters": {
-    "seniority": ["founder", "c_suite"],
-    "industries": ["software development"],
+    "seniority": [
+      "founder",
+      "c_suite"
+    ],
+    "industries": [
+      "software development"
+    ],
     "location": "United States",
     "company_size": "1-100"
   },
   "limit": 100,
-  "requested_by": "Troy"
+  "requested_by": "Troy",
+  "processed_at": "2025-12-08T15:23:27.697180",
+  "result_file": "results/saas-founders-small-co-20251208-152327.csv",
+  "result_count": 0
 }

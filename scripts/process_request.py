@@ -35,8 +35,8 @@ async def search_ai_arc_people(filters: Dict[str, Any], limit: int = 100) -> Lis
         print("ERROR: AI_ARC_API_KEY not configured")
         return []
     
-    headers = {
-        "x-api-key": AI_ARC_API_KEY,
+headers = {
+        "X-TOKEN": AI_ARC_API_KEY,
         "Content-Type": "application/json"
     }
     

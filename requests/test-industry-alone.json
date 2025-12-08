@@ -2,9 +2,14 @@
   "source": "ai_arc",
   "audience_name": "test-industry-alone",
   "filters": {
-    "industries": ["software development"]
+    "industries": [
+      "software development"
+    ]
   },
   "limit": 50,
   "requested_by": "Troy",
-  "notes": "Testing industry filter alone"
+  "notes": "Testing industry filter alone",
+  "processed_at": "2025-12-08T17:17:10.051415",
+  "result_file": "results/test-industry-alone-20251208-171710.csv",
+  "result_count": 50
 }

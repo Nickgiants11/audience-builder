@@ -2,11 +2,18 @@
   "source": "ai_arc",
   "audience_name": "test-combined-v2",
   "filters": {
-    "seniority": ["founder"],
-    "industries": ["software development"],
+    "seniority": [
+      "founder"
+    ],
+    "industries": [
+      "software development"
+    ],
     "location": "United States"
   },
   "limit": 50,
   "requested_by": "Troy",
-  "notes": "Testing seniority + industry + location combined"
+  "notes": "Testing seniority + industry + location combined",
+  "processed_at": "2025-12-08T17:17:08.624793",
+  "result_file": "results/test-combined-v2-20251208-171708.csv",
+  "result_count": 50
 }

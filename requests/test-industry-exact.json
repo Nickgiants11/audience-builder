@@ -1,0 +1,10 @@
+{
+  "source": "ai_arc",
+  "audience_name": "test-industry-exact",
+  "filters": {
+    "industries": ["Consumer Services"]
+  },
+  "limit": 25,
+  "requested_by": "Troy",
+  "notes": "Testing with exact industry name from API response"
+}

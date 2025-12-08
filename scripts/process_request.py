@@ -72,6 +72,8 @@ async def search_ai_arc_people(filters: Dict[str, Any], limit: int = 100) -> Lis
         size = filters["company_size"]
         size_mapping = {
             "1-10": {"start": 1, "end": 10},
+            "1-50": {"start": 1, "end": 50},
+            "1-100": {"start": 1, "end": 100},
             "11-50": {"start": 11, "end": 50},
             "51-200": {"start": 51, "end": 200},
             "201-500": {"start": 201, "end": 500},
@@ -81,7 +83,8 @@ async def search_ai_arc_people(filters: Dict[str, Any], limit: int = 100) -> Lis
         }
         if size in size_mapping:
             account["employeeSize"] = {
-                "range": size_mapping[size]
+                "type": "RANGE",
+                "range": [size_mapping[size]]
             }
     
     if "location" in filters:

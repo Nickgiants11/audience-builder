@@ -4,5 +4,8 @@
   "filters": {},
   "limit": 25,
   "requested_by": "Troy",
-  "notes": "Testing with no filters to see pagination"
+  "notes": "Testing with no filters to see pagination",
+  "processed_at": "2025-12-08T14:29:13.567415",
+  "result_file": "results/test-no-filters-20251208-142913.csv",
+  "result_count": 25
 }

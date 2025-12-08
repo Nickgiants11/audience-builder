@@ -2,9 +2,14 @@
   "source": "ai_arc",
   "audience_name": "test-founders",
   "filters": {
-    "seniority": ["founder"]
+    "seniority": [
+      "founder"
+    ]
   },
   "limit": 25,
   "requested_by": "Troy",
-  "notes": "Testing founder seniority filter"
+  "notes": "Testing founder seniority filter",
+  "processed_at": "2025-12-08T14:41:38.082984",
+  "result_file": "results/test-founders-20251208-144138.csv",
+  "result_count": 25
 }

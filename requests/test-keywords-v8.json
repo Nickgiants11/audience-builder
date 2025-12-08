@@ -1,0 +1,12 @@
+{
+  "source": "ai_arc",
+  "audience_name": "test-keywords-v8",
+  "filters": {
+    "seniority": ["founder"],
+    "location": "United States",
+    "keywords": ["hardware", "IoT", "consumer electronics"]
+  },
+  "limit": 50,
+  "requested_by": "Troy",
+  "notes": "Keywords as single comma-separated string"
+}

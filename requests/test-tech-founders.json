@@ -2,11 +2,19 @@
   "source": "ai_arc",
   "audience_name": "tech-founders-usa",
   "filters": {
-    "seniority": ["founder"],
-    "industries": ["software development", "technology, information and internet"],
+    "seniority": [
+      "founder"
+    ],
+    "industries": [
+      "software development",
+      "technology, information and internet"
+    ],
     "location": "United States"
   },
   "limit": 50,
   "requested_by": "Troy",
-  "notes": "Testing with exact industry names from AI-Ark"
+  "notes": "Testing with exact industry names from AI-Ark",
+  "processed_at": "2025-12-08T15:01:44.163157",
+  "result_file": "results/tech-founders-usa-20251208-150144.csv",
+  "result_count": 0
 }

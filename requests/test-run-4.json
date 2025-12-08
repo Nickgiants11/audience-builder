@@ -2,11 +2,18 @@
   "source": "ai_arc",
   "audience_name": "test-run-3",
   "filters": {
-    "job_titles": ["CEO"],
-    "industries": ["Technology"],
+    "job_titles": [
+      "CEO"
+    ],
+    "industries": [
+      "Technology"
+    ],
     "location": "United States"
   },
   "limit": 5,
   "requested_by": "Troy",
-  "notes": "Testing X-TOKEN header"
+  "notes": "Testing X-TOKEN header",
+  "processed_at": "2025-12-08T14:17:27.399715",
+  "result_file": "results/test-run-3-20251208-141727.csv",
+  "result_count": 1
 }

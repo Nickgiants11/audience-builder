@@ -1,0 +1,12 @@
+{
+  "source": "ai_arc",
+  "audience_name": "test-combined-v2",
+  "filters": {
+    "seniority": ["founder"],
+    "industries": ["software development"],
+    "location": "United States"
+  },
+  "limit": 50,
+  "requested_by": "Troy",
+  "notes": "Testing seniority + industry + location combined"
+}

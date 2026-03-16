@@ -1,45 +1,85 @@
-Company Name,Website,Booth #,Category/Tier,Description,LinkedIn URL
-T-Mobile for Business,https://www.t-mobile.com/business,,Title Sponsor - CP Expo,"Brings unconventional approaches to businesses leveraging the nation's largest 5G network, helping organizations work smarter and create new value.",https://www.linkedin.com/company/t-mobile/
-ThreatLocker,https://www.threatlocker.com,"2954, MSP80, MSP81",Title Sponsor - MSP Summit,"Improves enterprise-level server and endpoint security with Zero Trust controls including Allowlisting, Ringfencing, Elevation, Storage, Network Control, Configuration Management, and Detect EDR/MDR solutions.",https://www.linkedin.com/company/threatlocker/
-Lumen Technologies,https://www.lumen.com,1147,Foundation Sponsor,"Global communications services provider with networking, edge cloud, collaboration, cybersecurity solutions, and managed services. Also hosting Lumen Lounge (Veronese 2502).",https://www.linkedin.com/company/laborlumen/
-TD SYNNEX,https://www.tdsynnex.com,,Foundation Sponsor,"Leading global distributor and solutions aggregator serving the technology ecosystem with more than 23,000 professionals worldwide.",https://www.linkedin.com/company/tdsynnex/
-RingCentral,https://www.ringcentral.com,,Diamond Sponsor,"Global leader in agentic voice AI-powered cloud business communications delivering an integrated platform for business phone, SMS, contact center, workforce engagement, video collaboration, and messaging.",https://www.linkedin.com/company/ringcentral/
-Ingram Micro,https://www.ingrammicro.com,,Diamond Sponsor,"Leading technology company for the global IT ecosystem with the ability to reach nearly 90% of the global population, playing a vital role in the worldwide IT sales channel.",https://www.linkedin.com/company/ingram-micro/
-Verizon Partner Network,https://www.verizon.com/business/partner/,,Diamond Sponsor,"Award-winning program that combines the strength of partners and their portfolios with the power and performance of the Verizon network.",https://www.linkedin.com/company/verizon/
-Microsoft,https://www.microsoft.com,,Platinum Sponsor,"Microsoft Marketplace connecting with advisors, resellers, and services partners. Offering complimentary Expo + Keynote passes and discounted passes.",https://www.linkedin.com/company/microsoft/
-Comcast Business,https://business.comcast.com,,Platinum Sponsor,"Leading global businesses technology solutions including fast, reliable connectivity, secure networking solutions, advanced cybersecurity, and managed service options.",https://www.linkedin.com/company/comcast/
-Sophos,https://www.sophos.com,,Sponsor,"Defends organizations from cyberattacks with innovative, adaptive defenses and deep security expertise including managed security services, endpoint, network, email, and cloud security solutions.",https://www.linkedin.com/company/sophos/
-Telarus,https://www.telarus.com,,Official Technology Sponsor,"Premier global technology services distributor with over two decades of driving technology advisor impact and growth through deep market insights, partnership focus, and comprehensive services.",https://www.linkedin.com/company/telarus/
-Nextiva,https://www.nextiva.com,,Official Technology Sponsor,"Powers over a million users and billions of interactions annually with an AI-powered Unified-CXM platform delivering personalized experiences throughout the entire customer journey.",https://www.linkedin.com/company/nextiva/
-Vonage,https://www.vonage.com,,Official Technology Sponsor,"Creates technology empowering enterprises with AI-powered platforms including Network APIs, CPaaS, CCaaS, and UCaaS solutions.",https://www.linkedin.com/company/vonage/
-NinjaOne,https://www.ninjaone.com,"1566, MSP87, MSP88",Sponsor,"Automates the hardest parts of IT delivering visibility, security, and control over all endpoints for more than 20,000 customers. Proven to increase productivity, reduce security risk, and lower costs.",https://www.linkedin.com/company/ninjaone/
-AppDirect,https://www.appdirect.com,1608,Sponsor,"B2B subscription commerce platform bringing together technology providers, advisors, and businesses. More than 1,000 providers, 10,000 advisors, and 5 million subscribers. Meetings in Veronese 2402.",https://www.linkedin.com/company/appdirect/
-Splashtop,https://www.splashtop.com,1269,Sponsor,"Helps IT teams and MSPs secure, manage, and support distributed environments with a cloud-native approach built around autonomous endpoint management and trusted remote access.",https://www.linkedin.com/company/splashtop/
-GTT Communications,https://www.gtt.net,,Sponsor,"Leading networking and security-as-a-service provider for multinational organizations serving thousands of organizations with international reach, backbone resilience, and go-to-market collaborations.",https://www.linkedin.com/company/gaborone-tech-talent/
-Cato Networks,https://www.catonetworks.com,,Sponsor,"SASE platform is a converged cloud service delivering on the promise of SASE. Combines world-class security and networking into a purpose-built SASE platform.",https://www.linkedin.com/company/cato-networks/
-Five9,https://www.five9.com,,Sponsor,"Leading provider of cloud contact center software driven by a passion to transform contact centers into customer engagement centers of excellence.",https://www.linkedin.com/company/five9/
-Dialpad,https://www.dialpad.com,,Sponsor,"Leading AI-Powered Customer Intelligence Platform combining AI Contact Center, Sales, Voice, Meetings, and Messaging.",https://www.linkedin.com/company/dialpad/
-Intermedia,https://www.intermedia.com,,Sponsor,"Cloud communications company helping over 130,000 businesses connect better with seamlessly integrated solutions including voice, video, chat, contact center, business email, productivity, and file management.",https://www.linkedin.com/company/intermedia-net/
-AudioCodes,https://www.audiocodes.com,,Sponsor,"Powers enterprise communication with 30 years of voice expertise and next-gen voice AI services certified for leading UCaaS and CCaaS environments including Microsoft Teams, Cisco Webex, Zoom, and Genesys.",https://www.linkedin.com/company/audiocodes/
-CBTS,https://www.cbts.com,,Sponsor,"#43 CRN Solution Provider 500 serving enterprise and midmarket clients. Provides unbiased expertise and best-of-breed OEM solutions in AI, Security, Cloud, Networking, Voice, and Contact Center.",https://www.linkedin.com/company/cbts/
-DocuWare,https://www.docuware.com,3140,Sponsor,"Enterprise content management solutions with high closing rates and lucrative margins. Latest Intelligent Document Processing (IDP) innovation using AI.",https://www.linkedin.com/company/docuware/
-CloudCo Inc.,https://www.cloudco.com,,Sponsor,"Cloud solutions provider participating in the Channel Partners Conference & Expo 2026.",https://www.linkedin.com/company/cloudco-inc/
-Wildix Inc.,https://www.wildix.com,,Sponsor,"Unified communications and collaboration solutions provider. Positions AI as the catalyst moving the UC&C channel beyond resale.",https://www.linkedin.com/company/wildix/
-Aura Business,https://www.aura.co,,Sponsor,"Offers the first true BYOD security solution without MDM.",https://www.linkedin.com/company/aaborase/
-AnywhereNow,https://www.anywherenowhq.com,,Sponsor,"Global pioneer in transforming customer experience with innovative AI solutions.",https://www.linkedin.com/company/anywherenowhq/
-Tune,https://www.tune.com,,Sponsor,"Energy Tech company focused on helping businesses operate more efficiently.",https://www.linkedin.com/company/tune/
-Equinix Inc.,https://www.equinix.com,,Sponsor,"Global digital infrastructure company providing interconnection and data center services.",https://www.linkedin.com/company/equinix/
-Keeper Security,https://www.keepersecurity.com,,Sponsor,"Cybersecurity platform for enterprise password management, secrets management, and privileged access management.",https://www.linkedin.com/company/keeper-security/
-ConectUS Wireless,https://www.conectus.com,,Sponsor,"Offers Business Agents the opportunity to sell Verizon Wireless products and services including smartphones, tablets, Wireless Business Internet (FWA), and more.",https://www.linkedin.com/company/conectus-wireless/
-TimelyBill,https://www.timelybill.com,1936,Exhibitor,"Helps service providers manage telecom billing and channel partner commissions on a single platform.",https://www.linkedin.com/company/timelybill/
-Telefonica Global Solutions,https://globalsolutions.telefonica.com,1860,Exhibitor,"Services include Cloud-UC, SDWAN-SASE, Dynamic Networks, SIP Trunking, IoT and more.",https://www.linkedin.com/company/telefonica/
-Granite Telecom,https://www.granitenet.com,,Exhibitor,"Telecommunications services provider for multi-location enterprises.",https://www.linkedin.com/company/granite-telecommunications/
-Nitel,https://www.nitel.com,,Exhibitor,"Network solutions provider. Margi Shaw of Nitel is among the speakers at Channel Partners 2026.",https://www.linkedin.com/company/nitel/
-MetTel,https://www.mettel.net,,Exhibitor,"Digital transformation and managed services provider for enterprise communications.",https://www.linkedin.com/company/mettel/
-ScanSource / Intelisys,https://www.scansource.com,,Exhibitor,"Technology products and solutions provider. ScanSource Chairman and CEO Mike Baur is a Channel Partners speaker.",https://www.linkedin.com/company/scansource/
-CrowdStrike,https://www.crowdstrike.com,,Exhibitor,"Cybersecurity technology company providing cloud-delivered endpoint and workload protection.",https://www.linkedin.com/company/crowdstrike/
-SentinelOne,https://www.sentinelone.com,,Exhibitor,"AI-powered cybersecurity platform for autonomous endpoint protection, detection, and response.",https://www.linkedin.com/company/sentinelone/
-Bitdefender,https://www.bitdefender.com,,Exhibitor,"Global cybersecurity leader providing solutions for endpoint protection, detection and response.",https://www.linkedin.com/company/bitdefender/
-Channel Futures,https://www.channelfutures.com,,Media/Association Sponsor,"Unites the diverse ecosystem of companies that comprise the new channel including MSPs, systems integrators, and born-in-the-cloud services companies.",https://www.linkedin.com/company/channelfutures/
-Channel Partners,https://www.channelpartnersconference.com,,Media/Association Sponsor,"For nearly 30 years has been the leader in providing news and analysis to indirect sales channels serving the communications industry.",
-The ChannelPro Network,https://www.channelpronetwork.com,,Media/Association Sponsor,"Provides targeted business and technology information for IT channel partners who serve small and midsize businesses.",https://www.linkedin.com/company/channelpronetwork/
+Company Name,Website,Booth #,Category/Tier,Description,LinkedIn URL,Confidence
+T-Mobile for Business,https://www.t-mobile.com/business,,Title Sponsor - CP Expo,"Nation's largest 5G network; convergence of network and technology for businesses",https://www.linkedin.com/company/t-mobile/,Confirmed
+ThreatLocker,https://www.threatlocker.com,,Title Sponsor - MSP Summit,"Enterprise-level Zero Trust endpoint security: Allowlisting, Ringfencing, EDR/MDR",https://www.linkedin.com/company/threatlocker/,Confirmed
+Verizon Partner Network,https://www.verizon.com/partner/,,Foundation Sponsor,"Award-winning partner program combining partner portfolios with Verizon network",https://www.linkedin.com/company/verizon/,Confirmed
+Ingram Micro,https://www.ingrammicro.com,,Foundation Sponsor,"Leading global technology distributor reaching ~90% of global population",https://www.linkedin.com/company/ingram-micro/,Confirmed
+Lumen Technologies,https://www.lumen.com,1147,Foundation Sponsor,"Global communications services provider; networking, edge cloud, cybersecurity. Also has Lumen Lounge (Veronese 2502)",https://www.linkedin.com/company/laborlumen/,Confirmed
+AppDirect,https://www.appdirect.com,,Diamond Sponsor,"B2B subscription commerce platform; 1,000+ providers, 10,000 advisors, 5M subscribers",https://www.linkedin.com/company/appdirect/,Confirmed
+Microsoft Marketplace,https://www.microsoft.com,1536,Platinum Sponsor,"Largest catalog of AI apps and agents; connecting partner solutions to Microsoft customers",https://www.linkedin.com/company/microsoft/,Confirmed
+Telarus,https://www.telarus.com,,Official Tech Sponsor,"Leading global technology services distributor; 20+ years supporting partner community",https://www.linkedin.com/company/telarus/,Confirmed
+Nextiva,https://www.nextiva.com,,Official Tech Sponsor,"AI-powered Unified-CXM platform for personalized customer experiences",https://www.linkedin.com/company/nextiva/,Confirmed
+Consolidated Communications,https://www.consolidated.com,,Official Tech Sponsor / Event App Sponsor,"Top 10 U.S. fiber provider; 50,000+ fiber route miles. Also branded as Fidium Partners",https://www.linkedin.com/company/consolidated-communications/,Confirmed
+Vonage,https://www.vonage.com,,Official Tech Sponsor,"AI-powered platform: Network APIs, CPaaS, CCaaS, UCaaS solutions",https://www.linkedin.com/company/vonage/,Confirmed
+NinjaOne,https://www.ninjaone.com,,Sponsor,"Automated endpoint management platform; 30,000+ customers in 130+ countries",https://www.linkedin.com/company/ninjaone/,Confirmed
+Comcast Business,https://business.comcast.com,,Sponsor,"Business communications solutions; acquired Masergy",https://www.linkedin.com/company/comcast/,Confirmed
+Cox Business,https://www.coxbusiness.com,,Sponsor,"Communications solutions serving ~400,000 businesses nationally",https://www.linkedin.com/company/cox-business/,Confirmed
+AT&T,https://www.att.com/business,,Networking Event Sponsor,"Expo Hall Opening Reception sponsor",https://www.linkedin.com/company/at&t/,Confirmed
+Genesys,https://www.genesys.com,,Sponsor,"Global leader in AI-powered experience orchestration",https://www.linkedin.com/company/genesys/,Confirmed
+Sophos,https://www.sophos.com,,Sponsor,"Managed security services, endpoint, network, email, and cloud security",https://www.linkedin.com/company/sophos/,Confirmed
+8x8,https://www.8x8.com,,Sponsor,"Integrated platform for CX: Contact Center, UC, and CPaaS APIs with AI",https://www.linkedin.com/company/8x8/,Confirmed
+Dialpad,https://www.dialpad.com,,Sponsor,"AI-Powered Customer Intelligence Platform: AI Contact Center, Sales, Voice, Meetings",https://www.linkedin.com/company/dialpad/,Confirmed
+RingCentral,https://www.ringcentral.com,,Sponsor,"Global leader in AI-powered business communications and contact center",https://www.linkedin.com/company/ringcentral/,Confirmed
+Five9,https://www.five9.com,,Sponsor,"Cloud contact center platform with AI-powered CX solutions; 3,000+ customers",https://www.linkedin.com/company/five9/,Confirmed
+Sangoma,https://www.sangoma.com,,Sponsor,"Business communications platform: UCaaS, CCaaS, CPaaS, Trunking; 2.7M UC seats",https://www.linkedin.com/company/sangoma/,Confirmed
+AudioCodes,https://www.audiocodes.com,,Sponsor,"30 years voice expertise; certified for Teams, Webex, Zoom, Genesys",https://www.linkedin.com/company/audiocodes/,Confirmed
+Granite Channels,https://www.granitenet.com,,Sponsor,"Network connectivity/management solutions for multi-location enterprises; $1.8B company",https://www.linkedin.com/company/granite-telecommunications/,Confirmed
+AireSpring,https://www.airespring.com,,Sponsor,"Global managed network services: SD-WAN, UCaaS, CCaaS, SIP, MPLS, Managed Security",https://www.linkedin.com/company/airespring/,Confirmed
+Splashtop,https://www.splashtop.com,"1269, MSP46",Sponsor,"Cloud-native autonomous endpoint management and trusted remote access",https://www.linkedin.com/company/splashtop/,Confirmed
+GTT Communications,https://www.gtt.net,,Sponsor,"Global networking provider; partner program for international reach and backbone resilience",https://www.linkedin.com/company/gtt/,Confirmed
+CBTS,https://www.cbts.com,,Sponsor,"Full suite of tech solutions: AI, Cloud, Cybersecurity, Digital Workplace, Networking, Contact Center",https://www.linkedin.com/company/cbts/,Confirmed
+Sandler Partners,https://www.sandlerpartners.com,,Sponsor,"Leading TSD empowering independent sales partners; 200+ providers",https://www.linkedin.com/company/sandler-partners/,Confirmed
+Intelisys (ScanSource),https://www.intelisys.com,,Sponsor,"Technology services distributor owned by ScanSource",https://www.linkedin.com/company/intelisys/,Confirmed
+AVANT,https://www.avant.com,,Sponsor,"Technology services distributor; 2,000+ trusted advisor partners",https://www.linkedin.com/company/avant-communications/,Confirmed
+Spectrum Partner Program,https://www.spectrum.com/business,,Sponsor,"Charter/Spectrum business connectivity and partner program",https://www.linkedin.com/company/charter-communications/,Confirmed
+CyberPower Systems,https://www.cyberpowersystems.com,1966,Exhibitor,"Power protection solutions for partners and businesses",https://www.linkedin.com/company/cyberpower-systems/,Confirmed
+TimelyBill,https://www.timelybill.com,1936,Exhibitor,"Telecom billing and channel partner commission management platform",https://www.linkedin.com/company/timelybill/,Confirmed
+Telefonica Global Solutions,https://globalsolutions.telefonica.com,1860,Exhibitor,"Cloud-UC, SDWAN-SASE, Dynamic Networks, SIP Trunking, IoT",https://www.linkedin.com/company/telefonica/,Confirmed
+BEC Technologies,https://www.bectechnologies.net,1469,Exhibitor,"Connectivity and networking solutions",https://www.linkedin.com/company/bec-technologies/,Confirmed
+Caller ID Reputation,https://www.calleridreputation.com,2960,Exhibitor,"Caller ID and reputation management services",https://www.linkedin.com/company/caller-id-reputation/,Confirmed
+RingQ,https://www.ringq.com,2844,Exhibitor,"Communications/UCaaS provider",,Confirmed
+Modius,https://www.modius.com,,Exhibitor,"DCIM - Data Center Infrastructure Management",https://www.linkedin.com/company/modius/,Confirmed
+CloudCo Inc.,https://www.cloudco.com,,Exhibitor,"Cloud solutions for VARs, MSPs, ITSPs, hosted providers",,Confirmed
+Equinix Inc.,https://www.equinix.com,,Exhibitor,"Global data center and interconnection platform",https://www.linkedin.com/company/equinix/,Confirmed
+Keeper Security,https://www.keepersecurity.com,,Exhibitor,"Cybersecurity: password management, secrets management",https://www.linkedin.com/company/keeper-security/,Confirmed
+Wildix Inc.,https://www.wildix.com,,Exhibitor,"UCaaS solution, 100% sales-oriented, founded 2005",https://www.linkedin.com/company/wildix/,Confirmed
+888VoIP,https://www.888voip.com,,Exhibitor,"Premier VAD of VoIP hardware/software: Yealink, Grandstream, HP Poly, Snom, Fanvil",https://www.linkedin.com/company/888voip/,Confirmed
+Algo,https://www.algosolutions.com,,First Time Sponsor,"IP endpoints for paging, emergency alerting, secure door entry; 50+ years",https://www.linkedin.com/company/algo-communication-products/,Confirmed
+AnywhereNow,https://www.anywherenow.com,,First Time Sponsor,"AI-powered cloud-based contact centres for Microsoft Teams",https://www.linkedin.com/company/anywherenowhq/,Confirmed
+SouthLight,https://www.southlight.com,,First Time Sponsor,"Modernizing legacy telecom; digital solutions for voice and life-safety",,Confirmed
+Techmate,https://www.techmate.com,,First Time Sponsor,"On-site, on-demand IT support in 450+ cities",,Confirmed
+ConectUS Wireless,https://www.conectus.com,,Exhibitor,"Platinum Verizon Master Agent; sell all Verizon Wireless products",https://www.linkedin.com/company/conectus-wireless/,Confirmed
+BCM One,https://www.bcmone.com,,Exhibitor,"Enterprise Voice for Teams/Webex/Zoom; PSTN connectivity in 50 countries; Managed SIP",https://www.linkedin.com/company/bcm-one/,Confirmed
+CallTower,https://www.calltower.com,,Exhibitor,"Cloud communications: Teams, Webex, Zoom Phone, AI-powered contact center",https://www.linkedin.com/company/calltower/,Confirmed
+Stellar Cyber,https://www.stellarcyber.ai,,Exhibitor,"Open XDR/NG SIEM/NDR platform; serves 1/3 of top 250 MSSPs",https://www.linkedin.com/company/stellar-cyber/,Confirmed
+Consensus Cloud Solutions (eFax),https://www.consensus.com,,Exhibitor,"Cloud fax and interoperability solutions",https://www.linkedin.com/company/consensus-cloud-solutions/,Confirmed
+Fornix Marketing,https://www.fornixmarketing.com,,MSP Summit Sponsor,"MSP Summit Tech Sponsor Session sponsor",,Confirmed
+Nitel,https://www.nitel.com,,Exhibitor,"Network connectivity and communications solutions (CEO Margi Shaw is a speaker)",https://www.linkedin.com/company/nitel/,Confirmed
+MetTel,https://www.mettel.net,,Exhibitor,"Digital transformation solutions for enterprise",https://www.linkedin.com/company/mettel/,Confirmed
+DocuWare,https://www.docuware.com,3140,Exhibitor,"Enterprise content management solutions with AI-powered Intelligent Document Processing",https://www.linkedin.com/company/docuware/,Confirmed
+Intermedia,https://www.intermedia.com,,Exhibitor,"Cloud communications helping 130,000+ businesses; partner-first CORE model with 7,200+ channel partners",https://www.linkedin.com/company/intermedia-net/,Confirmed
+Aura Business,https://www.aura.co,,Exhibitor,"First true BYOD security solution without MDM",,Confirmed
+TD Synnex,https://www.tdsynnex.com,,Likely Exhibitor,"Major IT distributor; 23,000+ professionals worldwide",https://www.linkedin.com/company/tdsynnex/,Strongly Indicated
+ScanSource,https://www.scansource.com,,Likely Exhibitor,"Technology products and solutions distributor; owns Intelisys",https://www.linkedin.com/company/scansource/,Strongly Indicated
+Pax8,https://www.pax8.com,,Likely Exhibitor,"Cloud marketplace for MSPs; 30,000+ partner MSPs",https://www.linkedin.com/company/pax8/,Strongly Indicated
+ConnectWise,https://www.connectwise.com,,Likely Exhibitor,"MSP software platform; RMM, PSA, cybersecurity",https://www.linkedin.com/company/connectwise/,Strongly Indicated
+Kaseya/Datto,https://www.kaseya.com,,Likely Exhibitor,"MSP platform: IT management, security, backup",https://www.linkedin.com/company/kaseya/,Strongly Indicated
+N-able,https://www.n-able.com,,Likely Exhibitor,"MSP software: RMM, backup, security",https://www.linkedin.com/company/n-able/,Strongly Indicated
+Barracuda Networks,https://www.barracuda.com,,Likely Exhibitor,"Email, network, and application security for MSPs",https://www.linkedin.com/company/barracuda-networks/,Strongly Indicated
+Acronis,https://www.acronis.com,,Likely Exhibitor,"Cyber protection solutions for MSPs",https://www.linkedin.com/company/acronis/,Strongly Indicated
+Fortinet,https://www.fortinet.com,,Likely Exhibitor,"Network security, firewalls, SD-WAN",https://www.linkedin.com/company/fortinet/,Strongly Indicated
+SonicWall,https://www.sonicwall.com,,Likely Exhibitor,"Network security; strong SMB/MSP channel",https://www.linkedin.com/company/sonicwall/,Strongly Indicated
+Cato Networks,https://www.catonetworks.com,,Likely Exhibitor,"SASE platform: SD-WAN + network security",https://www.linkedin.com/company/cato-networks/,Strongly Indicated
+Zayo Group,https://www.zayo.com,,Likely Exhibitor,"Communications infrastructure; fiber, connectivity",https://www.linkedin.com/company/zayo-group/,Strongly Indicated
+Windstream,https://www.windstream.com,,Likely Exhibitor,"Communications and managed services",https://www.linkedin.com/company/windstream/,Strongly Indicated
+Momentum Telecom,https://www.momentumtelecom.com,,Likely Exhibitor,"Business voice, UC, cloud-based communications",https://www.linkedin.com/company/momentum-telecom/,Strongly Indicated
+Cradlepoint,https://www.cradlepoint.com,,Likely Exhibitor,"5G/LTE wireless WAN solutions",https://www.linkedin.com/company/cradlepoint/,Strongly Indicated
+CrowdStrike,https://www.crowdstrike.com,,Likely Exhibitor,"AI-native endpoint security; Falcon platform",https://www.linkedin.com/company/crowdstrike/,Strongly Indicated
+SentinelOne,https://www.sentinelone.com,,Likely Exhibitor,"AI-powered cybersecurity; autonomous endpoint protection",https://www.linkedin.com/company/sentinelone/,Strongly Indicated
+Bitdefender,https://www.bitdefender.com,,Likely Exhibitor,"Global cybersecurity; endpoint protection, detection and response",https://www.linkedin.com/company/bitdefender/,Strongly Indicated
+Talkdesk,https://www.talkdesk.com,,Likely Exhibitor,"AI-powered CCaaS platform",https://www.linkedin.com/company/talkdesk/,Strongly Indicated
+Versa Networks,https://www.versa-networks.com,,Likely Exhibitor,"SASE/SD-WAN platform",https://www.linkedin.com/company/versa-networks/,Strongly Indicated
+Aryaka,https://www.aryaka.com,,Likely Exhibitor,"SD-WAN/SASE managed services",https://www.linkedin.com/company/aryaka-networks/,Strongly Indicated
+Bigleaf Networks,https://www.bigleaf.net,,Likely Exhibitor,"SD-WAN and network optimization",https://www.linkedin.com/company/bigleaf-networks/,Strongly Indicated
+Ooma,https://www.ooma.com,,Likely Exhibitor,"Business phone and communications",https://www.linkedin.com/company/ooma/,Strongly Indicated
+Broadvoice,https://www.broadvoice.com,,Likely Exhibitor,"Cloud communications for businesses",https://www.linkedin.com/company/broadvoice/,Strongly Indicated
+Channel Futures / Informa,https://www.channelfutures.com,,Media/Association Sponsor,"Official media partner; MSP and channel news/analysis",https://www.linkedin.com/company/channelfutures/,Confirmed

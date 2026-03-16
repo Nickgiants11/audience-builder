@@ -68,7 +68,7 @@ Barracuda Networks,https://www.barracuda.com,,Likely Exhibitor,"Email, network, 
 Acronis,https://www.acronis.com,,Likely Exhibitor,"Cyber protection solutions for MSPs",https://www.linkedin.com/company/acronis/,Strongly Indicated
 Fortinet,https://www.fortinet.com,,Likely Exhibitor,"Network security, firewalls, SD-WAN",https://www.linkedin.com/company/fortinet/,Strongly Indicated
 SonicWall,https://www.sonicwall.com,,Likely Exhibitor,"Network security; strong SMB/MSP channel",https://www.linkedin.com/company/sonicwall/,Strongly Indicated
-Cato Networks,https://www.catonetworks.com,,Likely Exhibitor,"SASE platform: SD-WAN + network security",https://www.linkedin.com/company/cato-networks/,Strongly Indicated
+Cato Networks,https://www.catonetworks.com,,Exhibitor,"SASE platform: SD-WAN + network security; confirmed on sponsors page",https://www.linkedin.com/company/cato-networks/,Confirmed
 Zayo Group,https://www.zayo.com,,Likely Exhibitor,"Communications infrastructure; fiber, connectivity",https://www.linkedin.com/company/zayo-group/,Strongly Indicated
 Windstream,https://www.windstream.com,,Likely Exhibitor,"Communications and managed services",https://www.linkedin.com/company/windstream/,Strongly Indicated
 Momentum Telecom,https://www.momentumtelecom.com,,Likely Exhibitor,"Business voice, UC, cloud-based communications",https://www.linkedin.com/company/momentum-telecom/,Strongly Indicated
@@ -78,8 +78,33 @@ SentinelOne,https://www.sentinelone.com,,Likely Exhibitor,"AI-powered cybersecur
 Bitdefender,https://www.bitdefender.com,,Likely Exhibitor,"Global cybersecurity; endpoint protection, detection and response",https://www.linkedin.com/company/bitdefender/,Strongly Indicated
 Talkdesk,https://www.talkdesk.com,,Likely Exhibitor,"AI-powered CCaaS platform",https://www.linkedin.com/company/talkdesk/,Strongly Indicated
 Versa Networks,https://www.versa-networks.com,,Likely Exhibitor,"SASE/SD-WAN platform",https://www.linkedin.com/company/versa-networks/,Strongly Indicated
-Aryaka,https://www.aryaka.com,,Likely Exhibitor,"SD-WAN/SASE managed services",https://www.linkedin.com/company/aryaka-networks/,Strongly Indicated
 Bigleaf Networks,https://www.bigleaf.net,,Likely Exhibitor,"SD-WAN and network optimization",https://www.linkedin.com/company/bigleaf-networks/,Strongly Indicated
 Ooma,https://www.ooma.com,,Likely Exhibitor,"Business phone and communications",https://www.linkedin.com/company/ooma/,Strongly Indicated
 Broadvoice,https://www.broadvoice.com,,Likely Exhibitor,"Cloud communications for businesses",https://www.linkedin.com/company/broadvoice/,Strongly Indicated
 Channel Futures / Informa,https://www.channelfutures.com,,Media/Association Sponsor,"Official media partner; MSP and channel news/analysis",https://www.linkedin.com/company/channelfutures/,Confirmed
+Aryaka Networks,https://www.aryaka.com,,Exhibitor,"Unified SASE as a Service provider; SD-WAN/SASE managed services",https://www.linkedin.com/company/aryaka-networks/,Confirmed
+Wasabi Technologies,https://www.wasabi.com,,Exhibitor,"Hot cloud storage provider; S3-compatible, affordable cloud storage",https://www.linkedin.com/company/wasabi-technologies/,Confirmed
+ArmorPoint,https://www.armorpoint.com,2323,Exhibitor,"Cybersecurity/managed SOC for MSPs",https://www.linkedin.com/company/armorpoint/,Confirmed
+SCB Global,https://www.scbglobal.net,,First Time Exhibitor,"Microsoft Teams integration specialist; featured in New Exhibitor News Desk",https://www.linkedin.com/company/scb-global/,Confirmed
+Datagate,https://www.datagate-i.com,,Exhibitor,"Telecom billing for MSPs; integrates with ConnectWise, Datto Autotask, QuickBooks",https://www.linkedin.com/company/datagate/,Confirmed
+Microcall,https://www.microcall.com,,Exhibitor,"Call analytics for Microsoft Teams, Cisco, Avaya",https://www.linkedin.com/company/microcall/,Confirmed
+Palo Alto Networks,https://www.paloaltonetworks.com,,Sponsor,"Cybersecurity leader; sponsor of Running the Channel event at CP 2026",https://www.linkedin.com/company/palo-alto-networks/,Confirmed
+Cisco,https://www.cisco.com,,Sponsor,"Networking and security; sponsor of Running the Channel event at CP 2026",https://www.linkedin.com/company/cisco/,Confirmed
+GTS,https://www.gts.com,,Sponsor,"Technology services distributor; sponsor of Running the Channel and Karaoke Idol events",https://www.linkedin.com/company/gts-telecom/,Confirmed
+Young Channel Leaders (YCL),https://www.youngchannelleaders.com,7005,Exhibitor,"Emerging leaders community in the channel ecosystem",https://www.linkedin.com/company/young-channel-leaders/,Confirmed
+Telesystem,https://www.telesystem.us,,Exhibitor,"UCaaS and connectivity provider; will have UFC champion at booth",https://www.linkedin.com/company/telesystem/,Confirmed
+Omdia,https://www.omdia.com,,Media/Association Sponsor,"Technology research and advisory; Informa Tech brand",https://www.linkedin.com/company/omaborase/,Confirmed
+CompTIA,https://www.comptia.org,,Media/Association Sponsor,"IT industry trade association and certification body",https://www.linkedin.com/company/comptia/,Confirmed
+Light Reading,https://www.lightreading.com,,Media/Association Sponsor,"Telecommunications industry news and analysis",https://www.linkedin.com/company/light-reading/,Confirmed
+Telecom Reseller,https://www.telecomreseller.com,,Media/Association Sponsor,"Telecom industry media partner",https://www.linkedin.com/company/telecom-reseller/,Confirmed
+The SIP School,https://www.thesipschool.com,,Media/Association Sponsor,"SIP training and certification",https://www.linkedin.com/company/the-sip-school/,Confirmed
+IoT World Today,https://www.iotworldtoday.com,,Media/Association Sponsor,"IoT industry news and analysis",https://www.linkedin.com/company/iot-world-today/,Confirmed
+Inbenta,https://www.inbenta.com,,Exhibitor,"Award-winning AI platform; proprietary knowledge engineering and multi-model agentic framework",https://www.linkedin.com/company/inbenta/,Confirmed
+Introw,https://www.introw.io,,Exhibitor,"Next-gen PRM platform; partner portals on top of HubSpot and Salesforce CRM",https://www.linkedin.com/company/introw/,Confirmed
+3Eye Technologies,https://www.3eye.com,,Exhibitor,"Value-added IT distributor focused on the modern deskless workforce",https://www.linkedin.com/company/3eye-technologies/,Confirmed
+Impossible Cloud,https://www.impossiblecloud.com,,Exhibitor,"S3-compatible object storage purpose-built for MSPs and IT service providers",https://www.linkedin.com/company/impossiblecloud/,Confirmed
+NTS Direct,https://www.ntsdirect.com,,Exhibitor,"Value-added distributor of voice, data, networking technology; Master Agent for UCaaS, CPaaS, Cloud",https://www.linkedin.com/company/nts-direct/,Confirmed
+Edify,https://www.edify.cx,,Exhibitor,"Connects businesses with customers; unites CCaaS, UCaaS, and CPaaS in single cloud-native solution",https://www.linkedin.com/company/edify-labs/,Confirmed
+Fusion Connect,https://www.fusionconnect.com,,Exhibitor,"Next-gen managed communication service provider for mid-market and enterprise",https://www.linkedin.com/company/fusion-connect/,Confirmed
+Channel Maven,https://www.channelmaven.com,,Exhibitor,"Channel marketing consulting and services",,Confirmed
+Claro Enterprise Solutions,https://www.claroenterprise.com,,Exhibitor,"Enterprise ICT solutions provider; Americas-wide connectivity and cloud services",https://www.linkedin.com/company/claro-enterprise-solutions/,Confirmed
